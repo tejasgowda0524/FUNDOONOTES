@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ramtej\\Desktop\\main\\KafkaConsumer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D82B9350-D392-4F59-B9FD-38436D42151D}|KafkaConsumer.csproj|c:\\users\\ramtej\\desktop\\main\\kafkaconsumer\\consumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82B9350-D392-4F59-B9FD-38436D42151D}|KafkaConsumer.csproj|solutionrelative:consumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82B9350-D392-4F59-B9FD-38436D42151D}|KafkaConsumer.csproj|C:\\Users\\Ramtej\\Desktop\\main\\KafkaConsumer\\kafkaconsumer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D82B9350-D392-4F59-B9FD-38436D42151D}|KafkaConsumer.csproj|solutionrelative:kafkaconsumer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82B9350-D392-4F59-B9FD-38436D42151D}|KafkaConsumer.csproj|C:\\Users\\Ramtej\\Desktop\\main\\KafkaConsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82B9350-D392-4F59-B9FD-38436D42151D}|KafkaConsumer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KafkaConsumer.csproj",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\KafkaConsumer\\KafkaConsumer.csproj",
+              "RelativeDocumentMoniker": "KafkaConsumer.csproj",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\KafkaConsumer\\KafkaConsumer.csproj",
+              "RelativeToolTip": "KafkaConsumer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-04T17:15:33.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Consumer.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\KafkaConsumer\\Consumer.cs",
+              "RelativeDocumentMoniker": "Consumer.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\KafkaConsumer\\Consumer.cs",
+              "RelativeToolTip": "Consumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T15:07:32.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\KafkaConsumer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\KafkaConsumer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T15:06:58.185Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,537 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ramtej\\Desktop\\main\\mainProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AD19A-BB27-442E-8D84-81D92D1F6268}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ramtej\\desktop\\main\\repositorylayer\\nestdmethodsfolder\\nestedmethodsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBED82C-3852-44C7-99CB-9E68ED0330B1}|mainProject.csproj|C:\\Users\\Ramtej\\Desktop\\main\\mainProject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBED82C-3852-44C7-99CB-9E68ED0330B1}|mainProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBED82C-3852-44C7-99CB-9E68ED0330B1}|mainProject.csproj|c:\\users\\ramtej\\desktop\\main\\mainproject\\controllers\\usercollaboratorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBED82C-3852-44C7-99CB-9E68ED0330B1}|mainProject.csproj|solutionrelative:controllers\\usercollaboratorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBED82C-3852-44C7-99CB-9E68ED0330B1}|mainProject.csproj|C:\\Users\\Ramtej\\Desktop\\main\\mainProject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBED82C-3852-44C7-99CB-9E68ED0330B1}|mainProject.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5B4341-76DB-4235-8F51-425AF1FC36B6}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\ramtej\\desktop\\main\\businesslayer\\servicebl\\userservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5B4341-76DB-4235-8F51-425AF1FC36B6}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\ramtej\\desktop\\main\\businesslayer\\servicebl\\usernoteservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5B4341-76DB-4235-8F51-425AF1FC36B6}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\ramtej\\desktop\\main\\businesslayer\\servicebl\\usernotelabelservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5B4341-76DB-4235-8F51-425AF1FC36B6}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\ramtej\\desktop\\main\\businesslayer\\servicebl\\usercollaboratorservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5B4341-76DB-4235-8F51-425AF1FC36B6}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\ramtej\\desktop\\main\\businesslayer\\interfacebl\\iusernotelabelbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5B4341-76DB-4235-8F51-425AF1FC36B6}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\ramtej\\desktop\\main\\businesslayer\\interfacebl\\iusernotebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5B4341-76DB-4235-8F51-425AF1FC36B6}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\ramtej\\desktop\\main\\businesslayer\\interfacebl\\iuserbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5B4341-76DB-4235-8F51-425AF1FC36B6}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\ramtej\\desktop\\main\\businesslayer\\interfacebl\\iusercollaboratorbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AD19A-BB27-442E-8D84-81D92D1F6268}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ramtej\\desktop\\main\\repositorylayer\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AD19A-BB27-442E-8D84-81D92D1F6268}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ramtej\\desktop\\main\\repositorylayer\\interface\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AD19A-BB27-442E-8D84-81D92D1F6268}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ramtej\\desktop\\main\\repositorylayer\\entities\\usernotelabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AD19A-BB27-442E-8D84-81D92D1F6268}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ramtej\\desktop\\main\\repositorylayer\\entities\\usercollaborator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBED82C-3852-44C7-99CB-9E68ED0330B1}|mainProject.csproj|c:\\users\\ramtej\\desktop\\main\\mainproject\\controllers\\usernotelabelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBED82C-3852-44C7-99CB-9E68ED0330B1}|mainProject.csproj|solutionrelative:controllers\\usernotelabelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBED82C-3852-44C7-99CB-9E68ED0330B1}|mainProject.csproj|c:\\users\\ramtej\\desktop\\main\\mainproject\\controllers\\usernotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBED82C-3852-44C7-99CB-9E68ED0330B1}|mainProject.csproj|solutionrelative:controllers\\usernotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AD19A-BB27-442E-8D84-81D92D1F6268}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ramtej\\desktop\\main\\repositorylayer\\context\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AD19A-BB27-442E-8D84-81D92D1F6268}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ramtej\\desktop\\main\\repositorylayer\\service\\usernoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBED82C-3852-44C7-99CB-9E68ED0330B1}|mainProject.csproj|C:\\Users\\Ramtej\\Desktop\\main\\mainProject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4CBED82C-3852-44C7-99CB-9E68ED0330B1}|mainProject.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AD19A-BB27-442E-8D84-81D92D1F6268}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ramtej\\desktop\\main\\repositorylayer\\interface\\iusernote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBED82C-3852-44C7-99CB-9E68ED0330B1}|mainProject.csproj|C:\\Users\\Ramtej\\Desktop\\main\\mainProject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4CBED82C-3852-44C7-99CB-9E68ED0330B1}|mainProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AD19A-BB27-442E-8D84-81D92D1F6268}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ramtej\\desktop\\main\\repositorylayer\\service\\usernotelabelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AD19A-BB27-442E-8D84-81D92D1F6268}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ramtej\\desktop\\main\\repositorylayer\\service\\usercollaboratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AD19A-BB27-442E-8D84-81D92D1F6268}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ramtej\\desktop\\main\\repositorylayer\\interface\\iusernotelabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AD19A-BB27-442E-8D84-81D92D1F6268}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ramtej\\desktop\\main\\repositorylayer\\interface\\iusercollaborator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AD19A-BB27-442E-8D84-81D92D1F6268}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ramtej\\desktop\\main\\repositorylayer\\entities\\usernote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBED82C-3852-44C7-99CB-9E68ED0330B1}|mainProject.csproj|C:\\Users\\Ramtej\\Desktop\\main\\mainProject\\mainproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4CBED82C-3852-44C7-99CB-9E68ED0330B1}|mainProject.csproj|solutionrelative:mainproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5B4341-76DB-4235-8F51-425AF1FC36B6}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\ramtej\\desktop\\main\\businesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBED82C-3852-44C7-99CB-9E68ED0330B1}|mainProject.csproj|C:\\Users\\Ramtej\\Desktop\\main\\mainProject\\mainproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4CBED82C-3852-44C7-99CB-9E68ED0330B1}|mainProject.csproj|solutionrelative:mainproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AD19A-BB27-442E-8D84-81D92D1F6268}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ramtej\\desktop\\main\\repositorylayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserNoteServiceBl.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\BusinessLayer\\ServiceBl\\UserNoteServiceBl.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\ServiceBl\\UserNoteServiceBl.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\BusinessLayer\\ServiceBl\\UserNoteServiceBl.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\ServiceBl\\UserNoteServiceBl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:24:07.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserServiceBl.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\BusinessLayer\\ServiceBl\\UserServiceBl.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\ServiceBl\\UserServiceBl.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\BusinessLayer\\ServiceBl\\UserServiceBl.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\ServiceBl\\UserServiceBl.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAqwA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T19:49:31.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserCollaboratorController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\mainProject\\Controllers\\UserCollaboratorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserCollaboratorController.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\mainProject\\Controllers\\UserCollaboratorController.cs",
+              "RelativeToolTip": "Controllers\\UserCollaboratorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T10:26:16.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\mainProject\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\mainProject\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAowGsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T10:34:04.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\mainProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\mainProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T10:15:58.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NestedMethodsClass.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\RepositoryLayer\\NestdMethodsFolder\\NestedMethodsClass.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\NestdMethodsFolder\\NestedMethodsClass.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\RepositoryLayer\\NestdMethodsFolder\\NestedMethodsClass.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\NestdMethodsFolder\\NestedMethodsClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T00:07:32.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserNoteLabelServiceBl.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\BusinessLayer\\ServiceBl\\UserNoteLabelServiceBl.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\ServiceBl\\UserNoteLabelServiceBl.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\BusinessLayer\\ServiceBl\\UserNoteLabelServiceBl.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\ServiceBl\\UserNoteLabelServiceBl.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:23:33.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserCollaboratorServiceBl.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\BusinessLayer\\ServiceBl\\UserCollaboratorServiceBl.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\ServiceBl\\UserCollaboratorServiceBl.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\BusinessLayer\\ServiceBl\\UserCollaboratorServiceBl.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\ServiceBl\\UserCollaboratorServiceBl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T10:40:35.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserNoteLabelBl.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\BusinessLayer\\InterfaceBl\\IUserNoteLabelBl.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\InterfaceBl\\IUserNoteLabelBl.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\BusinessLayer\\InterfaceBl\\IUserNoteLabelBl.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\InterfaceBl\\IUserNoteLabelBl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T22:24:24.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserNoteBl.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\BusinessLayer\\InterfaceBl\\IUserNoteBl.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\InterfaceBl\\IUserNoteBl.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\BusinessLayer\\InterfaceBl\\IUserNoteBl.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\InterfaceBl\\IUserNoteBl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:21:55.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserBl.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\BusinessLayer\\InterfaceBl\\IUserBl.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\InterfaceBl\\IUserBl.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\BusinessLayer\\InterfaceBl\\IUserBl.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\InterfaceBl\\IUserBl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T19:49:40.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserCollaboratorBl.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\BusinessLayer\\InterfaceBl\\IUserCollaboratorBl.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\InterfaceBl\\IUserCollaboratorBl.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\BusinessLayer\\InterfaceBl\\IUserCollaboratorBl.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\InterfaceBl\\IUserCollaboratorBl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:21:23.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\RepositoryLayer\\Interface\\IUser.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Interface\\IUser.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\RepositoryLayer\\Interface\\IUser.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Interface\\IUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T19:48:44.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\RepositoryLayer\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\RepositoryLayer\\Service\\UserService.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Service\\UserService.cs",
+              "ViewState": "AQIAAP0AAAAAAAAAAAAwwCQBAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T19:48:00.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserNoteLabel.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\RepositoryLayer\\Entities\\UserNoteLabel.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Entities\\UserNoteLabel.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\RepositoryLayer\\Entities\\UserNoteLabel.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Entities\\UserNoteLabel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:20:51.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserCollaborator.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\RepositoryLayer\\Entities\\UserCollaborator.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Entities\\UserCollaborator.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\RepositoryLayer\\Entities\\UserCollaborator.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Entities\\UserCollaborator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:19:56.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserNoteLabelController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\mainProject\\Controllers\\UserNoteLabelController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserNoteLabelController.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\mainProject\\Controllers\\UserNoteLabelController.cs",
+              "RelativeToolTip": "Controllers\\UserNoteLabelController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:10:26.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserNoteController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\mainProject\\Controllers\\UserNoteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserNoteController.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\mainProject\\Controllers\\UserNoteController.cs",
+              "RelativeToolTip": "Controllers\\UserNoteController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:08:17.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\RepositoryLayer\\Context\\DapperContext.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Context\\DapperContext.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\RepositoryLayer\\Context\\DapperContext.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Context\\DapperContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T10:31:10.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserNoteService.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\RepositoryLayer\\Service\\UserNoteService.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Service\\UserNoteService.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\RepositoryLayer\\Service\\UserNoteService.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Service\\UserNoteService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAlwBoAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:16:31.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\mainProject\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\mainProject\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-04T10:15:21.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\mainProject\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\mainProject\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-04T10:13:29.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUserNote.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\RepositoryLayer\\Interface\\IUserNote.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Interface\\IUserNote.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\RepositoryLayer\\Interface\\IUserNote.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Interface\\IUserNote.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T22:21:58.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserNoteLabelService.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\RepositoryLayer\\Service\\UserNoteLabelService.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Service\\UserNoteLabelService.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\RepositoryLayer\\Service\\UserNoteLabelService.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Service\\UserNoteLabelService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA1wBIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:15:55.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserCollaboratorService.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\RepositoryLayer\\Service\\UserCollaboratorService.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Service\\UserCollaboratorService.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\RepositoryLayer\\Service\\UserCollaboratorService.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Service\\UserCollaboratorService.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwBEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T10:40:58.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUserNoteLabel.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\RepositoryLayer\\Interface\\IUserNoteLabel.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Interface\\IUserNoteLabel.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\RepositoryLayer\\Interface\\IUserNoteLabel.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Interface\\IUserNoteLabel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:37:19.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUserCollaborator.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\RepositoryLayer\\Interface\\IUserCollaborator.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Interface\\IUserCollaborator.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\RepositoryLayer\\Interface\\IUserCollaborator.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Interface\\IUserCollaborator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:36:57.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserNote.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\RepositoryLayer\\Entities\\UserNote.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Entities\\UserNote.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\RepositoryLayer\\Entities\\UserNote.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Entities\\UserNote.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:20:35.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "mainProject.csproj",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\mainProject\\mainProject.csproj",
+              "RelativeDocumentMoniker": "mainProject.csproj",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\mainProject\\mainProject.csproj",
+              "RelativeToolTip": "mainProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-04T15:09:20.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\BusinessLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\BusinessLayer\\Class1.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T10:10:54.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "mainProject.http",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\mainProject\\mainProject.http",
+              "RelativeDocumentMoniker": "mainProject.http",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\mainProject\\mainProject.http",
+              "RelativeToolTip": "mainProject.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-04T10:27:19.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Ramtej\\Desktop\\main\\RepositoryLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\Ramtej\\Desktop\\main\\RepositoryLayer\\Class1.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T10:11:15.319Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
